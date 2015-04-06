@@ -1,7 +1,6 @@
 #Web Server and Browser
 
-A simple command line web server that receives and respond to GET & POST requests.
-I also wrote a browser client to issue those requests.
+A simple command line web server that receives and respond to GET & POST http requests and a browser client to issue those requests.
 
 ###Demo:
 
